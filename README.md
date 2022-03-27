@@ -22,5 +22,6 @@ In this project, use News API. This is a well-maintained API which returns infor
 
 ![WhatsApp Image 2022-03-27 at 8 00 43 PM](https://user-images.githubusercontent.com/91408347/160286644-48affcef-84f8-4f72-9596-610c7f6f3382.jpeg)
 ![WhatsApp Image 2022-03-27 at 8 00 08 PM](https://user-images.githubusercontent.com/91408347/160286649-f6e1dfc1-c164-4e56-886e-e92e43d9c28e.jpeg)
-![WhatsApp Image 2022-03-27 at 8 00 08 PM](https://user-images.githubusercontent.com/91408347/160286728-ee1fff37-0c03-4dee-89db-bb9d9c748a44.mp4)
+Video link:
+(https://user-images.githubusercontent.com/91408347/160286728-ee1fff37-0c03-4dee-89db-bb9d9c748a44.mp4)
 
